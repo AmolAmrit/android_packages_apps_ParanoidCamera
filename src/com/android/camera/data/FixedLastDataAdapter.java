@@ -23,7 +23,7 @@ import android.view.View;
 
 import com.android.camera.ui.FilmStripView;
 
-import co.paranoidandroid.camera.R;
+import org.codeaurora.snapcam.R;
 
 /**
  * A {@link LocalDataAdapter} which puts a {@link LocalData} fixed at the last

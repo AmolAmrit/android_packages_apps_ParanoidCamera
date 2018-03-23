@@ -41,7 +41,7 @@ import com.android.camera.util.CameraUtil;
 import com.android.camera.util.GcamHelper;
 import com.android.camera.util.MultiMap;
 
-import co.paranoidandroid.camera.R;
+import org.codeaurora.snapcam.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

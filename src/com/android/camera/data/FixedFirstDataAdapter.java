@@ -24,7 +24,7 @@ import android.view.View;
 import com.android.camera.ui.FilmStripView.DataAdapter;
 import com.android.camera.ui.FilmStripView.ImageData;
 
-import co.paranoidandroid.camera.R;
+import org.codeaurora.snapcam.R;
 
 /**
  * A {@link LocalDataAdapter} which puts a {@link LocalData} fixed at the first

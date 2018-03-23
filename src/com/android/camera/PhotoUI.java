@@ -59,7 +59,7 @@ import com.android.camera.ui.CountDownView.OnCountDownFinishedListener;
 import com.android.camera.ui.PieRenderer.PieListener;
 import com.android.camera.util.CameraUtil;
 
-import co.paranoidandroid.camera.R;
+import org.codeaurora.snapcam.R;
 
 public class PhotoUI extends CameraUI implements PieListener,
         PreviewGestures.SingleTapListener,

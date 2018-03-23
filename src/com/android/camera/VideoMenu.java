@@ -43,7 +43,7 @@ import com.android.camera.ui.ListMenu;
 import com.android.camera.ui.TimeIntervalPopup;
 import com.android.camera.ui.RotateImageView;
 import com.android.camera.ui.RotateTextToast;
-import co.paranoidandroid.camera.R;
+import org.codeaurora.snapcam.R;
 import android.widget.HorizontalScrollView;
 import android.widget.Toast;
 import android.view.ViewGroup;
