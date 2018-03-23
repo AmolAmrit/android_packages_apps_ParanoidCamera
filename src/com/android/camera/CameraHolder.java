@@ -28,7 +28,7 @@ import android.os.HandlerThread;
 import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
-import co.paranoidandroid.camera.R;
+import org.codeaurora.snapcam.R;
 
 import com.android.camera.app.CameraApp;
 import com.android.camera.CameraManager.CameraProxy;
